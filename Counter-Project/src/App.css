@@ -1,0 +1,21 @@
+body {background-color: rgb(12, 4, 0);}
+
+h1,h2 {
+    color:white;
+    text-align:center
+}
+.container {
+    text-align: center;
+    
+}
+
+button {
+    background-color: rgb(176, 114, 31);
+    border: none;
+    color: white;
+    ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
